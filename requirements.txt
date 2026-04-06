@@ -1,0 +1,30 @@
+# Backend requirements
+fastapi
+uvicorn
+pydantic
+pillow
+python-multipart
+openai
+requests
+
+# Frontend requirements
+streamlit
+
+# LangChain and CrewAI
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+crewAI
+langchain-google-genai
+google-generativeai
+
+# Vector Store
+faiss-cpu
+opencv-python
+pydicom
+nibabel
+Bio
+reportlab
+scikit-learn
